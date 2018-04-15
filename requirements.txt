@@ -1,0 +1,4 @@
+configparser
+netaddr
+pycrypto
+broadlink==0.8
